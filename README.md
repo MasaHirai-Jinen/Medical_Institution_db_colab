@@ -1,0 +1,2 @@
+# Medical_Institution_db_colab
+Google Colablatryで作成した医療機関コードのdb作成プログラムの保存場所
